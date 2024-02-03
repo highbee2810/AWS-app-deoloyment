@@ -1,7 +1,7 @@
-# Project Title: Hosting static website on EC2 instance
-# Author: Sarafadeen Ibrahim Oyinkolade.
+# Project Title: Hosting a static website on EC2 instance
 
-## this project illustrate how to deploy applications on aws EC2 instances 
+
+## this project illustrate step by step process on how to deploy applications on aws EC2 instances 
 
 ## . Launch an EC2 Instance:
 ## 1.1. Create an EC2 Instance:
