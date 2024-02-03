@@ -1,7 +1,7 @@
 # Project Title: Hosting a static website on EC2 instance
 
 
-## this project illustrate step by step process on how to deploy applications on aws EC2 instances 
+## This project illustrate step by step process on how to deploy applications on aws EC2 instances 
 
 ## . Launch an EC2 Instance:
 ## 1.1. Create an EC2 Instance:
